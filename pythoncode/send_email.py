@@ -1,3 +1,4 @@
+# This code will send e-mail which you have coded in the code  
 import smtplib, ssl
 
 def sendEmail(message):
